@@ -16,12 +16,6 @@ cd drone-ps3-controller
 npm start
 ```
 
-### Flying
-
-Here's mapping. It's very similar to iPhone app.
-
-![](https://raw.github.com/bobrik/drone-ps3-controller/master/mapping.jpg)
-
 ### But there is [node-drone-joystick](https://github.com/TooTallNate/node-drone-joystick)
 
 This thing didn't worked for me so I made my own.
